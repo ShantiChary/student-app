@@ -1,5 +1,6 @@
 Name: Shanti Chary
 Email: schary@my.bcit.ca
+Student database
 
 App info: student_app.php - main page
 
